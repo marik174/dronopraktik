@@ -24,6 +24,7 @@
         <param name="Дополнительная категория">899</param>
         <set-ids>s1</set-ids><!--Можно указать несколько наборов через запятую-->
 	<price>0</price>
+	<currencyId>RUR</currencyId>
 	<param name="Ближайшая дата">2024-08-01</param>
         <!--Цена за месяц-->
         <param name="Ежемесячная цена">3666</param>
