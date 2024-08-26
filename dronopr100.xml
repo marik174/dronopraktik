@@ -1,10 +1,10 @@
 <yml_catalog date="2024-07-18 12:10">
   <shop> 
-    <name>Дронопрактик.рф</name>
+    <name>Дронопрактик</name>
     <company>ИП Титов Евгений Васильевич</company>
     <url>https://дронопрактик.рф?utm_source=fid</url>
     <email>admin@dronopraktik.ru</email>
-    <picture>https://static.tildacdn.com/tild3162-3333-4338-a435-626533376232/_.png</picture>
+    <picture>https://static.tildacdn.com/tild3736-3532-4565-a136-393338346662/avanew.png</picture>
     <description>Онлайн школа по обучению операторов БПЛА и FPV дронов</description>
     <currencies>
       <currency id="RUR" rate="1" />
